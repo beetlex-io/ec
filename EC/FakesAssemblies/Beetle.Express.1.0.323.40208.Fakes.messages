@@ -1,0 +1,46 @@
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 DotfuscatorAttribute 生成存根: 类型已密封。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 g 生成存根: 类型已密封。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.ChannelStatus 生成存根: 类型是一个值类型。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.SendStatus 生成存根: 类型是一个值类型。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.IPackage 生成存根: method System.Object Beetle.Express.IPackage.GetMessage(System.IO.Stream stream) unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.EventPackageReceive 生成存根: 类型已密封。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 i 生成存根: 类型已密封。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 c 生成存根: 类型已密封。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 j 生成存根: 类型已密封。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 a 生成存根: 类型已密封。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 h 生成存根: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 m 生成存根: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 d 生成存根: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 f 生成存根: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 k 生成存根: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 n 生成存根: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 e 生成存根: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 b 生成存根: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 l 生成存根: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 DotfuscatorAttribute 生成填充码: 类型不受支持，因为存在于内部限制。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 g 生成填充码: 类型是一个委托。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.Clients.TcpClient+EventConnectedToServer 生成填充码: 类型是一个委托。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.Clients.SyncTcpClient+EventConnectedToServer 生成填充码: 类型是一个委托。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.IReceiveData 生成填充码: 类型是一个接口。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.ChannelStatus 生成填充码: 类型是一个枚举。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.IServer 生成填充码: 类型是一个接口。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.IData 生成填充码: 类型是一个接口。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.SendStatus 生成填充码: 类型是一个枚举。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.LRUDetect+IConnecton 生成填充码: 类型是一个接口。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.IChannel 生成填充码: 类型是一个接口。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.IPackage 生成填充码: 类型是一个接口。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.EventPackageReceive 生成填充码: 类型是一个委托。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 Beetle.Express.IServerHandler 生成填充码: 类型是一个接口。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 i 生成填充码: 类型是一个委托。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 c 生成填充码: 类型是一个委托。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 j 生成填充码: 类型是一个委托。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 a 生成填充码: 类型是一个委托。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 h 生成填充码: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 m 生成填充码: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 d 生成填充码: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 f 生成填充码: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 k 生成填充码: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 n 生成填充码: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 e 生成填充码: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 b 生成填充码: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
+D:\ikende_Private\MG4Net\MG4Net\MG4Net\Fakes\Beetle.Express.fakes : warning : 无法为 l 生成填充码: 类型对 exported or assembly(Beetle.Express.1.0.323.40208.Fakes) 不可见。
